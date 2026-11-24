@@ -17,4 +17,4 @@ Edit `src/memories.ts` to change each caption, description, category, date, or i
 
 The optional music player looks for `public/music/our-song.mp3`. Add your own audio file at that path to enable it; music never autoplays.
 
-The relationship milestones are in the `timeline` array in `src/memories.ts`. Update the letter text directly in the letter section in `src/App.tsx`.
+The relationship milestones are in the `timeline` array in `src/memories.ts`. Update the letter text directly in the letter section in `src/App.tsx`.
