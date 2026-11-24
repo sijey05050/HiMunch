@@ -11,7 +11,7 @@ export const memories: Memory[] = [
   { id: 8, image: '/images/memories/8.mp4', caption: 'A little moment in motion.', description: 'Press play to relive this one.', category: 'Little Adventures', kind: 'video' },
   { id: 9, image: '/images/memories/9.jpg', caption: 'I wish I could press pause here.', description: 'A moment worth keeping close.', category: 'Random Pictures' },
   { id: 10, image: '/images/memories/10.jpg', caption: 'A memory made sweeter by you.', description: 'You have a way of making everything feel softer.', category: 'Our Favorite Moments' },
-  { id: 11, image: '/images/memories/11.jpg', caption: 'My heart feels at home here.', description: 'A simple little memory, treasured a lot.', category: 'My Favorite Photos of You' },
+  { id: 11, image: '/images/memories/3.jpg', caption: 'My heart feels at home here.', description: 'A simple little memory, treasured a lot.', category: 'My Favorite Photos of You' },
   { id: 12, image: '/images/memories/12.jpg', caption: 'Another day, another favorite.', description: 'I am so glad I get to make these with you.', category: 'Little Adventures' },
   { id: 13, image: '/images/memories/13.jpg', caption: 'A little snapshot of us.', description: 'This one makes me smile every single time.', category: 'Random Pictures' },
   { id: 14, image: '/images/memories/14.jpg', caption: 'Still one of my favorite moments.', description: 'The beginning of many more memories together.', category: 'Our Favorite Moments' },
