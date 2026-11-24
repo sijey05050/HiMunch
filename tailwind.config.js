@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { sage: '#A8BFA3', mint: '#DDEBDD', forest: '#456B50', cream: '#FAF9F2', darkgreen: '#263D2D' }, fontFamily: { display: ['Playfair Display', 'serif'], sans: ['DM Sans', 'sans-serif'], hand: ['Caveat', 'cursive'] } } }, plugins: [] };
